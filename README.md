@@ -1,4 +1,4 @@
-# 👋 Hey, I’m NorthShift (Emil)!
+# 👋 Hey, I’m NorthShift (Emil)
 
 Full‑stack developer | Creative coder | Maker | Digital creator  
 
