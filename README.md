@@ -30,7 +30,7 @@ Focus: Full‑stack development | Smooth GUIs | Efficient workflows | Experiment
 
 ---
 
-###🌱 My Coding Journey
+### 🌱 My Coding Journey
 
 I started coding in Lua at 11 years old, and that’s when I realized coding was truly my thing.
 At 14, I expanded into C++, followed by Python at 16.
