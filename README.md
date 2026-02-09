@@ -1,11 +1,12 @@
-# 👋 Hey, I’m **NorthShift** (Emil)
+# 👋 Hey, I'm **NorthShift** (Emil)
 
 **Full-stack developer · Creative coder · Maker · Digital creator**  
 I build things that look good, run smooth, and push boundaries.
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,39 +15,44 @@ I build things that look good, run smooth, and push boundaries.
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Focus areas:**  
-Full-stack development · Smooth, modern GUIs · Efficient workflows · Experimenting with emerging tech
+**What I focus on:**  
+Full-stack web development • Smooth, modern UIs • Workflow automation • Exploring emerging tech
 
 ---
 
 ## 🛠 Hardware & Engineering
-- **Arduino** — programming microcontrollers and building hands-on projects  
-- **SolidWorks** — 3D modeling, CAD, and design for real-world applications  
+
+- **Arduino** — Microcontroller programming and hands-on electronics projects  
+- **SolidWorks** — 3D CAD modeling and design for physical prototypes  
 
 ---
 
-## 🎨 Creative & Media
-- 🎬 Video editing with **Adobe Premiere Pro**  
-- 🖼 Thumbnails & visuals in **Adobe Photoshop**  
-- 🎯 Blending aesthetics with functionality for engaging digital content  
+## 🎨 Creative & Media Production
+
+- 🎬 **Adobe Premiere Pro** — Video editing and post-production  
+- 🖼 **Adobe Photoshop** — Graphics, thumbnails, and visual design  
+- 🎯 Crafting digital content that merges aesthetics with functionality  
 
 ---
 
 ## 🌱 My Coding Journey
 
-I started coding in **Lua at age 11**, and that’s when it clicked—this was *my thing*.  
-At **14**, I moved into **C++**, followed by **Python at 16**.  
-By **17**, I dove into **HTML, CSS, and JavaScript**, going deeper into full-stack development, hardware projects, and digital creation.
+**Age 11** — Started with **Lua**. That's when I knew coding was my calling.  
+**Age 14** — Moved into **C++** for deeper system-level programming.  
+**Age 16** — Picked up **Python** for versatility and rapid development.  
+**Age 17** — Dove into **HTML, CSS, and JavaScript**, expanding into full-stack web development.
 
-**Currently learning:** Ruby  
-**Next up:** Java → Rust  
+**Recently learned:** Ruby  
+**Currently learning:** Swift  
+**Next on the roadmap:** Java → Rust  
 
-Always building. Always learning.
+Always building. Always learning. Always iterating.
 
 ---
 
-## 🌟 Fun Facts
-🎬 Anime enjoyer  
-🏋️ Gym regular  
+## 🌟 Beyond the Code
+
+🎬 Anime enthusiast  
+🏋️ Regular at the gym  
 🚁 Certified drone pilot  
 🎥 Passionate video creator  
