@@ -39,12 +39,13 @@ Currently transitioning into **DevOps**, focusing on automation, infrastructure,
 - 🎯 Blending creativity with technical execution  
 
 ---
-## 🌱 Coding Journey
+
+## :seedling: Coding Journey
 
 - **Age 11** — Started with  
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-- **Age 14** — Progressed into
+- **Age 14** — Progressed into  
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -60,7 +61,7 @@ Currently transitioning into **DevOps**, focusing on automation, infrastructure,
 
 ---
 
-## 🚀 Learning & Growth
+## :rocket: Learning & Growth
 
 **Currently Learning**  
 ![Python](https://img.shields.io/badge/Python_(Advanced)-3776AB?style=for-the-badge&logo=python&logoColor=white)
