@@ -1,7 +1,9 @@
 # 👋 Hey, I'm **NorthShift** (Emil)
 
-**Full-stack developer · Creative coder · Maker · Digital creator**  
-I build things that look good, run smooth, and push boundaries.
+**Full-Stack Developer → Future DevOps Engineer · Creative Coder · Digital Creator**
+
+I build modern, scalable applications with a strong focus on performance, clean design, and reliability.  
+Currently transitioning into **DevOps**, focusing on automation, infrastructure, and system optimization.
 
 ---
 
@@ -15,44 +17,60 @@ I build things that look good, run smooth, and push boundaries.
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**What I focus on:**  
-Full-stack web development • Smooth, modern UIs • Workflow automation • Exploring emerging tech
+**Core Focus Areas:**
+- Full-stack web development  
+- DevOps fundamentals & infrastructure  
+- Clean, responsive UI/UX  
+- Automation & system optimization  
 
 ---
 
 ## 🛠 Hardware & Engineering
 
-- **Arduino** — Microcontroller programming and hands-on electronics projects  
-- **SolidWorks** — 3D CAD modeling and design for physical prototypes  
+- **Arduino** — Microcontrollers & embedded systems  
+- **SolidWorks** — 3D CAD design & prototyping  
 
 ---
 
-## 🎨 Creative & Media Production
+## 🎨 Creative & Media
 
-- 🎬 **Adobe Premiere Pro** — Video editing and post-production  
-- 🖼 **Adobe Photoshop** — Graphics, thumbnails, and visual design  
-- 🎯 Crafting digital content that merges aesthetics with functionality  
-
----
-
-## 🌱 My Coding Journey
-
-**Age 11** — Started with **Lua**. That's when I knew coding was my calling.  
-**Age 14** — Moved into **C++** for deeper system-level programming.  
-**Age 16** — Picked up **Python** for versatility and rapid development.  
-**Age 17** — Dove into **HTML, CSS, and JavaScript**, expanding into full-stack web development.
-
-**Recently learned:** Ruby  
-**Currently learning:** Swift  
-**Next on the roadmap:** Java → Rust  
-
-Always building. Always learning. Always iterating.
+- 🎬 **Adobe Premiere Pro** — Video editing & storytelling  
+- 🖼 **Adobe Photoshop** — Visual design & graphics  
+- 🎯 Blending creativity with technical execution  
 
 ---
 
-## 🌟 Beyond the Code
+## 🌱 Coding Journey
 
-🎬 Anime enthusiast  
-🏋️ Regular at the gym  
-🚁 Certified drone pilot  
-🎥 Passionate video creator  
+- **Age 11** — Started with [Lua](https://www.lua.org/docs.html)  
+- **Age 14** — Moved into [C++](https://en.cppreference.com/w/)  
+- **Age 17** — Expanded into [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+- **Age 18** — Expanded into [Ruby](https://www.ruby-lang.org/en/documentation/), [Assembly](https://en.wikipedia.org/wiki/Assembly_language), and deeper [Python](https://docs.python.org/3/)  
+
+---
+
+## 🚀 Learning & Growth
+
+**Recently Learned**
+- [Ruby](https://www.ruby-lang.org/en/documentation/)
+
+**Currently Learning**
+- [Python (Advanced)](https://docs.python.org/3/)  
+- [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+
+**Next Goals**
+- [Rust](https://www.rust-lang.org/learn)  
+- [Go](https://go.dev/doc/)  
+
+---
+
+## 🧠 Beyond Code
+
+- 🧩 Reverse engineering & low-level exploration  
+- 🎬 Anime & visual storytelling  
+- 🏋️ Discipline through fitness  
+- 🚁 Certified drone pilot  
+- 🎥 Content creation & editing  
+## 📌 Dev Philosophy
+
+> Build clean. Automate everything. Scale without breaking.
