@@ -39,25 +39,35 @@ Currently transitioning into **DevOps**, focusing on automation, infrastructure,
 - 🎯 Blending creativity with technical execution  
 
 ---
-
 ## 🌱 Coding Journey
 
-- **Age 11** — Started with [Lua](https://www.lua.org/docs.html)  
-- **Age 14** — Progressed into [C++](https://en.cppreference.com/w/)  
-- **Age 17** — Moved into web development with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-- **Age 18** — Expanded into [Ruby](https://www.ruby-lang.org/en/documentation/), [Assembly](https://en.wikipedia.org/wiki/Assembly_language), and advanced [Python](https://docs.python.org/3/)  
+- **Age 11** — Started with  
+  ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+- **Age 14** — Progressed into  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+- **Age 17** — Moved into web development with  
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Age 18** — Expanded into  
+  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ## 🚀 Learning & Growth
 
-**Currently Learning**
-- [Python (Advanced)](https://docs.python.org/3/)  
-- [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
+**Currently Learning**  
+![Python](https://img.shields.io/badge/Python_(Advanced)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 
-**Next Goals**
-- [Rust](https://www.rust-lang.org/learn)  
-- [Go](https://go.dev/doc/)  
+**Next Goals**  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
@@ -67,7 +77,8 @@ Currently transitioning into **DevOps**, focusing on automation, infrastructure,
 - 🎬 Anime & visual storytelling  
 - 🏋️ Discipline through fitness  
 - 🚁 Certified drone pilot  
-- 🎥 Content creation & editing  
+- 🎥 Content creation & editing
+- 
 ## 📌 Dev Philosophy
 
 > Build clean. Automate everything. Scale without breaking.
