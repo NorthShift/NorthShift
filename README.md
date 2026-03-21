@@ -43,16 +43,13 @@ Currently transitioning into **DevOps**, focusing on automation, infrastructure,
 ## 🌱 Coding Journey
 
 - **Age 11** — Started with [Lua](https://www.lua.org/docs.html)  
-- **Age 14** — Moved into [C++](https://en.cppreference.com/w/)  
-- **Age 17** — Expanded into [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-- **Age 18** — Expanded into [Ruby](https://www.ruby-lang.org/en/documentation/), [Assembly](https://en.wikipedia.org/wiki/Assembly_language), and deeper [Python](https://docs.python.org/3/)  
+- **Age 14** — Progressed into [C++](https://en.cppreference.com/w/)  
+- **Age 17** — Moved into web development with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+- **Age 18** — Expanded into [Ruby](https://www.ruby-lang.org/en/documentation/), [Assembly](https://en.wikipedia.org/wiki/Assembly_language), and advanced [Python](https://docs.python.org/3/)  
 
 ---
 
 ## 🚀 Learning & Growth
-
-**Recently Learned**
-- [Ruby](https://www.ruby-lang.org/en/documentation/)
 
 **Currently Learning**
 - [Python (Advanced)](https://docs.python.org/3/)  
