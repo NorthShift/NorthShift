@@ -66,6 +66,7 @@ Currently transitioning into **DevOps**, focusing on automation, infrastructure,
 **Currently Learning**  
 ![Python](https://img.shields.io/badge/Python_(Advanced)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Next Goals**  
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
