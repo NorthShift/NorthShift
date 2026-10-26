@@ -23,8 +23,6 @@ If you think your goals are impossible, remember that a car navigator never tell
 
 ![skills](https://skillicons.dev/icons?i=js,py,cpp,lua,ruby,html,css,react,git,linux,apple,unity,unrealengine)
 
-Still learning Rust whenever I get free time.
-
 ## What I usually build
 
 Web apps and APIs  
