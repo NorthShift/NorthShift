@@ -2,47 +2,34 @@
 
 # Emil · NorthShift
 
-Full-Stack Developer • Systems Enthusiast • Creative Technologist
+Full stack developer, systems nerd and creative technologist
 
-Building fast, reliable software with a focus on performance, clean architecture, and user experience.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=NorthShift&color=6366f1&style=flat-square&label=Views)](https://github.com/NorthShift)
+Just trying to build solid stuff that actually works and feels good to use
 
 </div>
 
-## About
+Hey, I am Emil.
 
-I've been programming since I was 11, starting with Lua and gradually expanding into web development, systems programming, reverse engineering, hardware projects, and creative technology.
+I wrote my first code when I was 11. Started with Lua making games on Roblox. At 15 I jumped into C and C++ and began writing real programs and software. When I was 17 I got into web stuff and learned JavaScript, Ruby, HTML, CSS, Python and React.
 
-Currently interested in:
+I go to the gym every day since 2025 and still train hard. I have had a few normal starter jobs, supermarket, construction and some other things. Nothing special, just work.
 
-- Full-stack development
-- Systems & low-level programming
-- Reverse engineering
-- Hardware & embedded projects
-- UI/UX and product design
+I also make small indie games for fun. Unity, Roblox Studio and Unreal Engine are my usual tools. I love traveling and seeing different places. Overall I am a pretty chill guy who is just trying to become something better every year.
 
-## Tech
+My simple philosophy  
+If you think your goals are impossible, remember that a car navigator never tells you that you made a mistake. It just recalculates the route and finds another way to get you there. Do the same with your goals.
 
-**Languages**
+## Languages and tools
 
-`JavaScript` `Python` `C++` `Lua` `Ruby` `HTML` `CSS`
+![skills](https://skillicons.dev/icons?i=js,py,cpp,lua,ruby,html,css,react,nodejs,git,linux,macos,unity,unreal)
 
-**Tools**
+## What I usually build
 
-`Node.js` `Git` `Linux`
+Web apps and APIs  
+Small developer tools  
+Systems projects  
+Automation scripts  
+Hardware experiments  
+Games and random creative stuff
 
-**Learning**
-
-`Rust`
-
-## What I Build
-
-- Web applications & APIs
-- Developer tools
-- Systems programming projects
-- Automation & scripting tools
-- Hardware prototypes
-- Creative tech experiments
-
-</div>
+Thanks for reading. Feel free to say hi.
