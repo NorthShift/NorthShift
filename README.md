@@ -21,7 +21,14 @@ If you think your goals are impossible, remember that a car navigator never tell
 
 ## Languages and tools
 
-![skills](https://skillicons.dev/icons?i=js,py,cpp,lua,ruby,html,css,react,git,linux,apple,unity,unrealengine)
+**Coding lang**  
+![langs](https://skillicons.dev/icons?i=js,py,cpp,lua,ruby,html,css,react)
+
+**Tools**  
+![tools](https://skillicons.dev/icons?i=git,linux,apple,bash,powershell,vscode,docker,github,cloudflare,aws,mysql,rails,arduino,raspberrypi,arch)
+
+**Eth**  
+![eth](https://skillicons.dev/icons?i=unity,unrealengine,robloxstudio,blender,ae,ps,pr,discord,bots,windows)
 
 ## What I usually build
 
