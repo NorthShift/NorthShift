@@ -16,7 +16,8 @@ I go to the gym every day since 2025 and still train hard. I have had a few norm
 
 I also make small indie games for fun. Unity, Roblox Studio and Unreal Engine are my usual tools. I love traveling and seeing different places. Overall I am a pretty chill guy who is just trying to become something better every year.
 
-My simple philosophy  
+My simple philosophy:  
+
 If you think your goals are impossible, remember that a car navigator never tells you that you made a mistake. It just recalculates the route and finds another way to get you there. Do the same with your goals.
 
 ## Languages and tools
